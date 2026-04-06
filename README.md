@@ -12,13 +12,13 @@ It supports creating users with validation, along with advanced features like fi
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/user-api.git
+git clone https://github.com/your-username/Crud_practise.git
 ```
 
 2. Navigate to project:
 
 ```
-cd user-api
+cd Crud_practise
 ```
 
 3. Install dependencies:
